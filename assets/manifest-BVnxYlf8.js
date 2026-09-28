@@ -1,0 +1,1 @@
+var e=`/pifagor-demo/assets/data/manifest-390e2268db.json`;export{e as default};

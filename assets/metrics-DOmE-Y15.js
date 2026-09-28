@@ -1,0 +1,1 @@
+var e=`/pifagor-demo/assets/data/metrics-47b034795f.json`;export{e as default};

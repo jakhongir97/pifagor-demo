@@ -1,0 +1,1 @@
+var e=`/pifagor-demo/assets/data/knowledge-marketing-a0e385d687.json`;export{e as default};

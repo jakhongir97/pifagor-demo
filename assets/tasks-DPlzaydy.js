@@ -1,0 +1,1 @@
+var e=`/pifagor-demo/assets/data/tasks-c7bab69de1.json`;export{e as default};

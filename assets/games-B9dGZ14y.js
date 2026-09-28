@@ -1,0 +1,1 @@
+function e(e,t){let n=e?.tgByGrade;return(t==null?void 0:n?.[String(t)]?.telegramLink)??e?.telegramLink}export{e as t};

@@ -1,0 +1,1 @@
+var e=`/pifagor-demo/assets/data/prices-4119703826.json`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/pifagor-demo/assets/data/normatives-extra-e623e57a1f.json`;export{e as default};

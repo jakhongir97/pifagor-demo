@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="uz" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/pifagor-demo/favicon.png" />
+    <link rel="apple-touch-icon" href="/pifagor-demo/brand/logo-192.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#F7F4EF" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0F1510" media="(prefers-color-scheme: dark)" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="description" content="Pifagor maktabining yagona platformasi" />
+    <title>Pifagor</title>
+    <script>
+      try {
+        var s = JSON.parse(localStorage.getItem('pifagor-session') || '{}').state || {};
+        var t = s.theme || 'system';
+        var dark = t === 'dark' || (t === 'system' && matchMedia('(prefers-color-scheme: dark)').matches);
+        document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+        if (s.lang) document.documentElement.lang = s.lang;
+      } catch (e) {}
+    </script>
+    <script type="module" crossorigin src="/pifagor-demo/assets/index-qRmJ1sRR.js"></script>
+    <link rel="modulepreload" crossorigin href="/pifagor-demo/assets/tenant-CLDkkayS.js">
+    <link rel="modulepreload" crossorigin href="/pifagor-demo/assets/createLucideIcon-DPadmy0K.js">
+    <link rel="modulepreload" crossorigin href="/pifagor-demo/assets/check-BUVmNbzA.js">
+    <link rel="modulepreload" crossorigin href="/pifagor-demo/assets/Card-vuQQwovM.js">
+    <link rel="modulepreload" crossorigin href="/pifagor-demo/assets/session-y83VEqZ3.js">
+    <link rel="modulepreload" crossorigin href="/pifagor-demo/assets/triangle-alert-Cm2mWFET.js">
+    <link rel="modulepreload" crossorigin href="/pifagor-demo/assets/Toast-D5X8Q3vl.js">
+    <link rel="modulepreload" crossorigin href="/pifagor-demo/assets/db-4eX8aP6u.js">
+    <link rel="modulepreload" crossorigin href="/pifagor-demo/assets/Progress-BzEiY9iy.js">
+    <link rel="stylesheet" crossorigin href="/pifagor-demo/assets/index-DeVdBYgZ.css">
+  <link rel="manifest" href="/pifagor-demo/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/pifagor-demo/registerSW.js"></script></head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

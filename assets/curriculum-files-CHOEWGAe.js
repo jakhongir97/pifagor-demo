@@ -1,0 +1,1 @@
+var e=`/pifagor-demo/assets/data/curriculum-files-6174cb4b53.json`;export{e as default};

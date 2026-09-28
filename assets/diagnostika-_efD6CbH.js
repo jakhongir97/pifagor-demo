@@ -1,0 +1,1 @@
+var e=`/pifagor-demo/assets/data/diagnostika-24c0d41027.json`;export{e as default};
