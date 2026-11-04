@@ -1,0 +1,1 @@
+var e=`/pifagor-demo/assets/data/content-7587f8d28f.json`;export{e as default};

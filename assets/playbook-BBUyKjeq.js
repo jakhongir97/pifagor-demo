@@ -1,0 +1,1 @@
+var e=`/pifagor-demo/assets/data/playbook-44d06712ac.json`;export{e as default};

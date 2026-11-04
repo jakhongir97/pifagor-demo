@@ -1,0 +1,1 @@
+var e=`/pifagor-demo/assets/data/knowledge-sales-3ba1f8c4fb.json`;export{e as default};

@@ -1,0 +1,1 @@
+var e=[`1`,`2`,`3`,`4`,`0`],t=e=>e.quarter&&e.quarter>=1&&e.quarter<=4?String(e.quarter):`0`,n=(e,t)=>e===`0`?t?`Без четверти`:`Choraksiz`:t?`${e}-я четверть`:`${e}-chorak`;export{t as n,n as r,e as t};
